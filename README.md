@@ -10,6 +10,13 @@ Computer Science student at MSU Denver (B.S. expected May 2027) focused on backe
 
 ## Experience
 
+### Freelance | *Shopify Developer*
+January 2026 – Present
+
+- Own a client's Shopify storefront end to end as the business owner's primary technical resource, from planning to release
+- Research user flows and build new pages to improve the shopping experience
+- Audit and remove legacy code, favoring built-in configuration over custom scripts to reduce long-term maintenance
+
 ### Beeline | *Software Engineer (joined as Software Engineering Intern)*
 May 2022 – April 2024
 
@@ -17,12 +24,6 @@ May 2022 – April 2024
 - Supported CI/CD pipelines that deployed Docker-containerized API services to Azure across US and EU regions; wrote xUnit unit and integration tests for C#/.NET services and took part in code reviews
 - Diagnosed and fixed an ASP.NET Core API defect where sort and filter query parameters were silently ignored by the underlying SQL query, by attaching the Visual Studio debugger to the IIS worker process and tracing state through the request pipeline
 
-### Freelance | *Shopify Developer*
-January 2026 – Present
-
-- Own a client's Shopify storefront end to end as the business owner's primary technical resource, from planning to release
-- Research user flows and build new pages to improve the shopping experience
-- Audit and remove legacy code, favoring built-in configuration over custom scripts to reduce long-term maintenance
 
 ### Metropolitan State University of Denver | *Content Management System Migration Specialist*
 March 2021 – May 2022
